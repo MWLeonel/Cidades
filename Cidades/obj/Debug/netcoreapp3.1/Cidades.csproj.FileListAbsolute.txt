@@ -1,0 +1,13 @@
+C:\Users\Max Leonel\Desktop\Cidades\Cidades\bin\Debug\netcoreapp3.1\Cidades.exe
+C:\Users\Max Leonel\Desktop\Cidades\Cidades\bin\Debug\netcoreapp3.1\Cidades.deps.json
+C:\Users\Max Leonel\Desktop\Cidades\Cidades\bin\Debug\netcoreapp3.1\Cidades.runtimeconfig.json
+C:\Users\Max Leonel\Desktop\Cidades\Cidades\bin\Debug\netcoreapp3.1\Cidades.runtimeconfig.dev.json
+C:\Users\Max Leonel\Desktop\Cidades\Cidades\bin\Debug\netcoreapp3.1\Cidades.dll
+C:\Users\Max Leonel\Desktop\Cidades\Cidades\bin\Debug\netcoreapp3.1\Cidades.pdb
+C:\Users\Max Leonel\Desktop\Cidades\Cidades\obj\Debug\netcoreapp3.1\Cidades.csprojAssemblyReference.cache
+C:\Users\Max Leonel\Desktop\Cidades\Cidades\obj\Debug\netcoreapp3.1\Cidades.AssemblyInfoInputs.cache
+C:\Users\Max Leonel\Desktop\Cidades\Cidades\obj\Debug\netcoreapp3.1\Cidades.AssemblyInfo.cs
+C:\Users\Max Leonel\Desktop\Cidades\Cidades\obj\Debug\netcoreapp3.1\Cidades.csproj.CoreCompileInputs.cache
+C:\Users\Max Leonel\Desktop\Cidades\Cidades\obj\Debug\netcoreapp3.1\Cidades.dll
+C:\Users\Max Leonel\Desktop\Cidades\Cidades\obj\Debug\netcoreapp3.1\Cidades.pdb
+C:\Users\Max Leonel\Desktop\Cidades\Cidades\obj\Debug\netcoreapp3.1\Cidades.genruntimeconfig.cache
