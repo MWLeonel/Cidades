@@ -23,6 +23,7 @@ namespace Cidades
 
             Console.WriteLine("#G");
             Console.WriteLine("Guaruja");
+            Console.Write("\n");
 
             Console.WriteLine("#I");
             Console.WriteLine("Iguape");
